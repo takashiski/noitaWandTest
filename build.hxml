@@ -1,0 +1,13 @@
+-lib hxnoita
+-lua mod/init.lua
+-main Main
+-D lua-vanilla
+
+--next
+
+-lib hxnodejs
+-js dist/xml.js
+-main ModXml
+-D lua-vanilla
+-cmd node dist/xml.js
+-cmd cp ./mod/* "C:/Program Files (x86)/Steam/steamapps/common/Noita/mods/testwand/"
