@@ -18,6 +18,12 @@
 
 ## how to run
 
+### needed
+
+```
+haxelib git hxnoita https://github.com/takashiski/hxnoita
+```
+
 ### console
 
 ```
